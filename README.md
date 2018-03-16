@@ -1,4 +1,4 @@
-# LOTUS
+# LOTUS: Linked Open Text UnleaShed
 Code of LOTUS, the largest LOD text index, allowing free text access the LOD Laundromat data collection. LOTUS was presented at ESWC 2016 and won 2nd place at the European Linked Data Contest 2016.
 
 This module was developed at VU University Amsterdam, as a collaboration between CLTL and the Knowledge Representation & Reasoning departments. 

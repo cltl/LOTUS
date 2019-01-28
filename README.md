@@ -1,7 +1,20 @@
 # LOTUS: Linked Open Text UnleaShed
-Code of LOTUS, the largest LOD text index, allowing free text access the LOD Laundromat data collection. LOTUS was presented at ESWC 2016 and won 2nd place at the European Linked Data Contest 2016.
 
-This module was developed at VU University Amsterdam, as a collaboration between CLTL and the Knowledge Representation & Reasoning departments. 
+This repository contains all code of LOTUS, accompanying the ESWC2016 publication:
+```xml
+@inproceedings{ilievski2016lotus,
+  title={LOTUS: Adaptive Text Search for Big Linked Data},
+  author={Ilievski, Filip and Beek, Wouter and van Erp, Marieke and Rietveld, Laurens and Schlobach, Stefan},
+  booktitle={ESWC 2016},
+  pages={470--485},
+  year={2016},
+  organization={Springer International Publishing}
+}
+```
+
+LOTUS is currently the largest LOD text index, allowing free text access the LOD Laundromat data collection. It won 2nd place at the European Linked Data Contest 2016.
+
+LOTUS was developed at VU University Amsterdam, as a collaboration between CLTL and the Knowledge Representation & Reasoning departments. 
 
 ## API github
 https://github.com/filipdbrsk/LOTUS_Search
